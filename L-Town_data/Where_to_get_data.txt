@@ -1,0 +1,1 @@
+The data used in this project uses the L-Town model built for the BattLeDim competition. The dataset should be downloaded and added to this folder through this hyperlink: https://zenodo.org/records/4017659
